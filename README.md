@@ -43,7 +43,7 @@ Para instalar execute os passos:
 
 _Tutorial retirado do site oficial do MinIO: https://min.io/docs/minio/linux/index.html_
 
-## Baixando a pastar jars
+## Baixando a pasta jars
 
 O projeto usa dois jars para execução, para baixá-los, os disponibilizei em meu Drive: _https://drive.google.com/drive/folders/1dkyoh3ErMhGAn6VeWh9Hia-SDnHv31yG?usp=sharing_
 Faça download da pasta e coloque na pasta raiz do projeto, os dois arquivos precisam estar dentro da pasta para que a configuração do spark consiga localizá-los.
