@@ -5,6 +5,7 @@ Repositório para receber, guardar e atualizar o projeto de ciência de dados qu
 * [Instalando o WSL](https://github.com/HiagoACSilva/datascienceCAPES?tab=readme-ov-file#instalando-o-wsl)
 * [Instalando as dependencias pelo WSL](https://github.com/HiagoACSilva/datascienceCAPES?tab=readme-ov-file#instalando-as-dependencias-pelo-wsl-usando-poetry)
 * [Instalando o MinIO](https://github.com/HiagoACSilva/datascienceCAPES?tab=readme-ov-file#instalando-o-minio)
+* [Baixando a pasta jars](https://github.com/HiagoACSilva/datascienceCAPES?tab=readme-ov-file#baixando-a-pasta-jars)
 * [Executando o Projeto](https://github.com/HiagoACSilva/datascienceCAPES?tab=readme-ov-file#executando-o-projeto)
 
 # Configurando o Ambiente de Trabalho
@@ -41,6 +42,11 @@ Para instalar execute os passos:
 4. Por fim crie a pasta do MinIO: ```mkdir  ~/minio```
 
 _Tutorial retirado do site oficial do MinIO: https://min.io/docs/minio/linux/index.html_
+
+## Baixando a pastar jars
+
+O projeto usa dois jars para execução, para baixá-los, os disponibilizei em meu Drive: _https://drive.google.com/drive/folders/1dkyoh3ErMhGAn6VeWh9Hia-SDnHv31yG?usp=sharing_
+Faça download da pasta e coloque na pasta raiz do projeto, os dois arquivos precisam estar dentro da pasta para que a configuração do spark consiga localizá-los.
 
 ## Executando o Projeto
 
